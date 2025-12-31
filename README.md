@@ -2,10 +2,6 @@
 
 **PDFTimeSealer** is a cross-platform, portable desktop application designed to apply RFC 3161 trusted timestamps to PDF documents. It ensures long-term validation and integrity of your files without relying on external servers for file storage.
 
-<p align="center">
-  <img src="app_icon.ico" width="128" alt="PDFTimeSealer Icon">
-</p>
-
 ## ✨ Key Features
 
 * **Cross-Platform:** Runs seamlessly on Windows, macOS, and Linux.
@@ -33,8 +29,7 @@
    ```bash
    chmod +x PDFTimeSealer-Linux
    ./PDFTimeSealer-Linux
-
-```
+    ```
 
 ## 🛠️ Development
 
