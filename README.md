@@ -44,7 +44,7 @@ If you want to run from source or build it yourself:
 
 1. Clone the repository:
 ```bash
-git clone [https://github.com/PoomGamerE/PDFTimeSealer.git](https://github.com/PoomGamerE/PDFTimeSealer.git)
+git clone https://github.com/PoomGamerE/PDFTimeSealer.git
 cd PDFTimeSealer
 
 ```
